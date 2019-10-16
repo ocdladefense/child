@@ -14,7 +14,7 @@
         {
             "name": "José Bernal",
             "email": "jbernal.web.dev@gmail.com"
-        },
+        }
     ],
     "require": {
         "composer/installers": "~1.0"
