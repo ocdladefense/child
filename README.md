@@ -1,2 +1,2 @@
-# oadp-wordpress-theme
-A child theme for Wireframe.
+# clickpdx/child
+A child theme for Wireframe - for WordPress

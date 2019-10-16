@@ -1,0 +1,28 @@
+{
+    "name": "clickpdx/child",
+    "description": "A WordPress child theme that uses Wireframe as a parent",
+    "type": "wordpress-theme",
+    "authors": [
+        {
+            "name": "Jack Brainard",
+            "email": "brainard@my.lanecc.edu"
+        },
+        {
+            "name": "Trevor Uehlin",
+            "email": "trevoruehlinx1@gmail.com"
+        },
+        {
+            "name": "José Bernal",
+            "email": "jbernal.web.dev@gmail.com"
+        },
+    ],
+    "require": {
+        "composer/installers": "~1.0"
+    },
+    "repositories":[
+        {
+            "type":"composer",
+            "url":"https://wpackagist.org"
+        }
+    ]
+}
